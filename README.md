@@ -1,3 +1,3 @@
 # labs5
 
-![gambar](ss/8.png)
+![gambar](ss/gambar8.png)
