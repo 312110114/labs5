@@ -6,7 +6,7 @@
 
 Membuat dictionary daftar kontak
 
-PROGRAMNYA
+# PROGRAMNYA
 
 ![gambar](ss/1.png)
 
@@ -39,7 +39,7 @@ print ( "Menampilkan daftar nama dan nomor" ) print ( "=" * 30 ) print ( kontak 
 # ini untuk menghapus kontak Dina yang tersimpan dalam daftar kontak
 print ( "Hapus kontak Dina" ) kontak . pop ( 'Dina' ) print ( "=" * 30 ) print ( kontak . item ()) print ( "=" * 30 )
 
-OUTPUT PEROGRAMNYA
+# OUTPUT PEROGRAMNYA
 
 ![gambar](ss/3.png)
 
