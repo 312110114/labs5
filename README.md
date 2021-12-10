@@ -51,4 +51,4 @@ Program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan
 
 # FLOWCHART MENAMPILKAN DAFTAR NILAI MAHASISWA DENGAN KETENTUAN (LIHAT, TAMBAH, UBAH, HAPUS, CARI, KELUAR)
 
-![gambar](ss/8.png)
+![gambar](ss/9.png)
