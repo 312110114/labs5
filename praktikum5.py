@@ -1,3 +1,5 @@
+a  = {}
+
 while True:
     x  =  input ( "(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar: " )
 
