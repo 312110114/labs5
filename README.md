@@ -43,3 +43,12 @@ print ( "Hapus kontak Dina" ) kontak . pop ( 'Dina' ) print ( "=" * 30 ) print (
 
 ![gambar](ss/3.png)
 
+# Tugas praktikum
+
+# Praktikum5.py
+
+Program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan tampilkan menu pilihan (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data).
+
+# FLOWCHART MENAMPILKAN DAFTAR NILAI MAHASISWA DENGAN KETENTUAN (LIHAT, TAMBAH, UBAH, HAPUS, CARI, KELUAR)
+
+![gambar](ss/8.png)
