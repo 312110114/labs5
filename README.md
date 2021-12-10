@@ -84,3 +84,24 @@ elif x . lower () == 'k' : break
 else :
  print ( "Pilih Menu Yang Tersedia" )
 
+# Output programnya
+
+# Menambahkan data 't' dan melihat dengan data dengan 'l'
+
+![gambar](ss/11.png)
+
+# Mengubah data dengan 'u', dan melihat data dengan 'l'
+
+![gambar](ss/12.png)
+
+# Mencari data dengan 'c', dan melihat data dengan 'l'
+
+![gambar](ss/13.png)
+
+# Menghapus data dengan 'h' dan melihat data dengan 'l'
+
+![gambar](ss/14.png)
+
+# Keluar dari program dengan 'k'
+
+![gambar](ss/15.png)
